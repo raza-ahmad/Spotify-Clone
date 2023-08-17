@@ -7,7 +7,7 @@ Spotify Clone made by only using HTML, CSS, JS. Spotify is a music streaming pla
 
 ## Working Application
 
-Check Out the Live Version -> [Spotify-Clone](https:spotify-clone-ahmad.netlify.app)
+Check Out the Live Version -> [Spotify-Clone](https://spotify-clone-ahmad.netlify.app)
 
 
 ## Screenshots
